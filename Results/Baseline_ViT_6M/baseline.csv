@@ -1,0 +1,2 @@
+Experiment,Model,Dataset,Precision,Input_H,Input_W,Patch_Size,Patches,Tokens,Embedding,Heads,Depth,MLP_Hidden,Classes,Parameters,Parameters_M,FP32_Weight_MB,INT8_Weight_MB,FLOPs,MFLOPs,Peak_Activation_KB,Peak_Activation_MB
+EXP-00,ViT-CIFAR,CIFAR-10,FP32,32,32,4,64,65,384,12,7,384,10,6268810,6.26881,23.913612365722656,5.978403091430664,865165476,865.165476,883.59375,0.862884521484375
