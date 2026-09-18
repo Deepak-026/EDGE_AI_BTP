@@ -1,0 +1,3 @@
+model,precision,accuracy_percent,weight_MB,accuracy_drop
+C201,FP32,76.93,0.475746155,0
+C201,INT8,76.76,0.118936539,0.17
